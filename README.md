@@ -12,9 +12,6 @@ Turn an idea into a clear, ready-to-use prompt for ChatGPT, Gemini or any AI too
 
 Works on phone and desktop.
 
-![Prompt Raja on desktop](prompt-raja-desktop.png)
-![Prompt Raja on phone](prompt-raja-mobile.png)
-
 ## Good to know
 
 - Free to use, with a small hourly limit on generations.
@@ -24,4 +21,4 @@ Works on phone and desktop.
 
 Prompt Raja is a Brilliant Benius tool. More tools: https://github.com/vishalbadri084-ak47/brilliant-benius#apps-and-open-source-tools
 
-The source code is private. This repository contains only this page and screenshots.
+The source code is private. This repository contains only this page.
